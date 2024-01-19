@@ -5,7 +5,7 @@
 
 # https://gethomepage.dev
 homepage:
-  enabled: false
+  enabled: true
 
 # https://github.com/grafana/grafana
 grafana:
