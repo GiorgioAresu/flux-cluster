@@ -1,0 +1,8 @@
+---
+kubernetes:
+  children:
+    master:
+      hosts:
+        "kube-proxmox-01":
+          ansible_user: "kube"
+          ansible_host: "10.17.1.32"
